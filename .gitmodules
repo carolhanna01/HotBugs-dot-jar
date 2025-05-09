@@ -25,3 +25,6 @@
 [submodule "kafka"]
 	path = kafka
 	url = https://github.com/carolhanna01/kafka
+[submodule "spark"]
+	path = spark
+	url = https://github.com/carolhanna01/spark
