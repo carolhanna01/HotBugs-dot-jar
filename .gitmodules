@@ -31,3 +31,6 @@
 [submodule "hbase"]
 	path = hbase
 	url = https://github.com/carolhanna01/hbase
+[submodule "solr"]
+	path = solr
+	url = https://github.com/carolhanna01/solr
