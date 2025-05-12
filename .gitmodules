@@ -28,3 +28,6 @@
 [submodule "spark"]
 	path = spark
 	url = https://github.com/carolhanna01/spark
+[submodule "hbase"]
+	path = hbase
+	url = https://github.com/carolhanna01/hbase
