@@ -34,3 +34,6 @@
 [submodule "solr"]
 	path = solr
 	url = https://github.com/carolhanna01/solr
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/carolhanna01/hadoop
