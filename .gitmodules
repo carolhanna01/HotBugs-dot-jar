@@ -40,3 +40,6 @@
 [submodule "karaf"]
 	path = karaf
 	url = https://github.com/carolhanna01/karaf
+[submodule "groovy"]
+	path = groovy
+	url = https://github.com/carolhanna01/groovy
