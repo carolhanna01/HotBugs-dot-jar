@@ -37,3 +37,6 @@
 [submodule "hadoop"]
 	path = hadoop
 	url = https://github.com/carolhanna01/hadoop
+[submodule "karaf"]
+	path = karaf
+	url = https://github.com/carolhanna01/karaf
