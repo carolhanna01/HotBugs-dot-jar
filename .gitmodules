@@ -13,6 +13,9 @@
 [submodule "maven"]
 	path = maven
 	url = https://github.com/bugs-dot-jar/maven.git
+[submodule "jackrabbit-oak"]
+        path = jackrabbit-oak
+        url = https://github.com/bugs-dot-jar/jackrabbit-oak.git
 [submodule "wicket"]
 	path = wicket
 	url = https://github.com/bugs-dot-jar/wicket.git
