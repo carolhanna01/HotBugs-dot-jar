@@ -40,3 +40,6 @@
 [submodule "groovy"]
 	path = groovy
 	url = https://github.com/carolhanna01/groovy
+[submodule "jackrabbit"]
+	path = jackrabbit
+	url = https://github.com/carolhanna01/jackrabbit
