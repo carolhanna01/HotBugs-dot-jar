@@ -46,3 +46,6 @@
 [submodule "jackrabbit"]
 	path = jackrabbit
 	url = https://github.com/carolhanna01/jackrabbit
+[submodule "nifi"]
+	path = nifi
+	url = https://github.com/carolhanna01/nifi
