@@ -52,3 +52,6 @@
 [submodule "calcite"]
 	path = calcite
 	url = https://github.com/carolhanna01/calcite
+[submodule "ignite"]
+	path = ignite
+	url = https://github.com/carolhanna01/ignite
