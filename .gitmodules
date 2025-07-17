@@ -49,3 +49,6 @@
 [submodule "nifi"]
 	path = nifi
 	url = https://github.com/carolhanna01/nifi
+[submodule "calcite"]
+	path = calcite
+	url = https://github.com/carolhanna01/calcite
