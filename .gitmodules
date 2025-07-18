@@ -3,7 +3,7 @@
 	url = https://github.com/bugs-dot-jar/accumulo.git
 [submodule "camel"]
 	path = camel
-	url = https://github.com/bugs-dot-jar/camel.git
+	url = https://github.com/carolhanna01/camel
 [submodule "flink"]
 	path = flink
 	url = https://github.com/carolhanna01/flink
