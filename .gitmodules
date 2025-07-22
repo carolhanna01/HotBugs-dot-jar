@@ -55,3 +55,6 @@
 [submodule "maven"]
 	path = maven
 	url = https://github.com/carolhanna01/maven
+[submodule "ambari"]
+	path = ambari
+	url = https://github.com/carolhanna01/ambari
