@@ -2,6 +2,8 @@
 
 HotBugs.jar is built as an extension of the widely used [Bugs.jar](https://github.com/bugs-dot-jar/bugs-dot-jar) dataset. It is composed of a set of Apache Java time-critical bugs that were addressed with a hot fix. It introduces a more focused subset of bugs based on urgency and impact. Each included bug is labeled as high priority in its corresponding Jira issue, was resolved within a short time frame from issue creation, and is associated with a nearby release tag in the project's version history. This focus makes HotBugs.jar especially suited for studying rapid bug resolution, automated repair under production pressure, and tools for emergency software maintenance.
 
+For more information and resources, visit the [HotBugs.jar project page](https://solar.cs.ucl.ac.uk/os/hotfixbenchmark.html).
+
 ## How To Install
 
 For the first time, you should clone this repository as well as its submodules:
@@ -73,6 +75,7 @@ $ ls -a .bugs-dot-jar
 | Calcite    | 3    |
 | **Total**    | **78**    |
 
+Developed by Carol Hanna, Prof. Federica Sarro, and Prof. Justyna Petke at the [SOLAR group](https://solar.cs.ucl.ac.uk/) within University College London's Department of Computer Science. 
 
 ## Disclamer
 THIS SOFTWARE DATA SET IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTOR "AS IS." BY USING THE SOFTWARE DATA SET, YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT TO THE EXTENT PROHIBITED BY LAW, ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND/OR ANY WARRANTIES THAT THIS SOFTWARE DATA SET WILL BE ERROR FREE OR FREE OF HARMFUL COMPONENTS, ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE DATA SET, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
