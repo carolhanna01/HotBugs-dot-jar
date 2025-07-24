@@ -60,7 +60,7 @@ $ ls -a .bugs-dot-jar
 ..                     developer-patch.diff   test-results.txt
 ```
 
-## HotBugs.jar Time-critical Bugs Included
+## The HotBugs.jar Time-critical Bugs
 
 | Project    | Number of HotBugs |
 | -------- | ------- |
@@ -75,9 +75,22 @@ $ ls -a .bugs-dot-jar
 | Calcite    | 3    |
 | **Total**    | **78**    |
 
+## Requirements
+Each bug in the dataset may has its own specific requirements, depending on the project it belongs to and the version of the project it affects. These details are documented in the [additional bug information sheet](https://docs.google.com/spreadsheets/d/1oOOJ3CexSJemAFUedXL9inDIqLWjDZ4Furg22MMc8VE/edit?gid=1536192333#gid=1536192333), including build systems, compatible Java versions, and other setup notes.
+
+To run most bugs in this dataset, you will generally need the following tools installed:
+
+- Java: Version 8,11,17,21 (depending on the bug)
+- Gradle 4.4.1
+- Maven version 3.6.3 or 3.8.4
+- Libprotoc 3.12.4 (for Hadoop specifically)
+
+## Maintenance
+
 Developed by Carol Hanna, Prof. Federica Sarro, and Prof. Justyna Petke at the [SOLAR group](https://solar.cs.ucl.ac.uk/) within University College London's Department of Computer Science. 
 
-## Disclamer
-THIS SOFTWARE DATA SET IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTOR "AS IS." BY USING THE SOFTWARE DATA SET, YOU EXPRESSLY UNDERSTAND AND AGREE THAT, EXCEPT TO THE EXTENT PROHIBITED BY LAW, ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND/OR ANY WARRANTIES THAT THIS SOFTWARE DATA SET WILL BE ERROR FREE OR FREE OF HARMFUL COMPONENTS, ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE DATA SET, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Please direct your inquiries to [carol.hanna.21@ucl.ac.uk](mailto:carol.hanna.21@ucl.ac.uk)
 
-You understand and agree that you will not: 1) make false or misleading statements or representations regarding Fujitsu or Fujitsu products and services; 2) take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on Fujitsu’s behalf (including, without limitation, any of our products or services); and that you will not state or imply that Fujitsu has developed, endorsed, reviewed or otherwise approved of any of your products.  You agree that you will indemnify, defend and hold us harmless from and against any and all claims which may arise under or out of your use of the Software Data Set; your negligence or intentional misconduct; your products, or any integrations you develop, design, promote or distribute using the Software Data Set; any misrepresentations you make with respect to Fujitsu, or Fujitsu products or services.
+## License
+
+MIT License, see license.txt
