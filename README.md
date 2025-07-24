@@ -1,6 +1,6 @@
 # HotBugs.jar: A Diverse Dataset of Time-Critcal Bugs for Java Hot Fixing
 
-HotBugs.jar is built as an extension of the widely used [Bugs.jar](https://github.com/bugs-dot-jar/bugs-dot-jar) dataset.
+HotBugs.jar is built as an extension of the widely used [Bugs.jar](https://github.com/bugs-dot-jar/bugs-dot-jar) dataset. It is composed of a set of Apache Java time-critical bugs that were addressed with a hot fix. It introduces a more focused subset of bugs based on urgency and impact. Each included bug is labeled as high priority in its corresponding Jira issue, was resolved within a short time frame from issue creation, and is associated with a nearby release tag in the project's version history. This focus makes HotBugs.jar especially suited for studying rapid bug resolution, automated repair under production pressure, and tools for emergency software maintenance.
 
 ## How To Install
 
