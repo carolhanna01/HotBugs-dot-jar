@@ -112,7 +112,7 @@ $ mvn clean test
 The developer patch can then be applied from the Flink project root dir and tests can be rerun to pass on the patched code:
 ```
 $ cd ..
-$ git apply --reject .bugs-dot-jar/developer-patch.diff
+$ git apply .bugs-dot-jar/developer-patch.diff
 $ cd flink-tables
 $ mvn clean install
   [INFO] ------------------------------------------------------------------------
