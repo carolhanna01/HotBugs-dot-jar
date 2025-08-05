@@ -55,8 +55,8 @@ To browse a specific bug data, please go to one of the following project directo
 | Hadoop  | 21    |
 | Nifi | 11     |
 | Calcite    | 3    |
-| Ambari    | 23    |
-| **Total**    | **101**    |
+| Ambari    | 32    |
+| **Total**    | **110**    |
 
 ## Requirements
 Each bug in the dataset may has its own specific requirements, depending on the project it belongs to and the version of the project it affects. These details are documented in the [additional bug information sheet](https://docs.google.com/spreadsheets/d/1oOOJ3CexSJemAFUedXL9inDIqLWjDZ4Furg22MMc8VE/edit?gid=1536192333#gid=1536192333), including build systems, compatible Java versions, and other setup notes.
