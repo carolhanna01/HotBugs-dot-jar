@@ -59,7 +59,7 @@ To browse a specific bug data, please go to one of the following project directo
 | **Total**    | **110**    |
 
 ## Requirements
-Each bug in the dataset may has its own specific requirements, depending on the project it belongs to and the version of the project it affects. These details are documented in the [additional bug information sheet](https://docs.google.com/spreadsheets/d/1oOOJ3CexSJemAFUedXL9inDIqLWjDZ4Furg22MMc8VE/edit?gid=1536192333#gid=1536192333), including build systems, compatible Java versions, and other setup notes.
+Each bug in the dataset may has its own specific requirements, depending on the project it belongs to and the version of the project it affects. These details are documented in the [additional bug information sheet](https://docs.google.com/spreadsheets/d/1DftX4Bm0wIn4wvv11edEUVYrNO5WpDy3DTkiIyZxaZs/edit?gid=579710219#gid=579710219), including build systems, compatible Java versions, and other setup notes.
 
 To run most bugs in this dataset, you will generally need the following tools installed:
 
