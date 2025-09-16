@@ -122,7 +122,8 @@ $ mvn clean install
 ```
 ## Maintenance
 
-Developed by Carol Hanna, Prof. Federica Sarro, and Prof. Justyna Petke at the [SOLAR group](https://solar.cs.ucl.ac.uk/) within University College London's Department of Computer Science. 
+Developed by Carol Hanna, Prof. Federica Sarro, and Prof. Justyna Petke at the [SOLAR group](https://solar.cs.ucl.ac.uk/) within University College London's Department of Computer Science.
+This project has obtained ethics approval from UCL (Project ID: 1031).
 
 Please direct your inquiries to [carol.hanna.21@ucl.ac.uk](mailto:carol.hanna.21@ucl.ac.uk)
 
