@@ -8,6 +8,17 @@ HotBugs.jar is built as an extension of the widely used [Bugs.jar](https://githu
 
 For more information and resources, visit the [HotBugs.jar project page](https://solar.cs.ucl.ac.uk/os/hotfixbenchmark.html).
 
+To cite HotBugs.jar in your research, please use the following:
+```
+@misc{hotbugs,
+  author       = {Carol Hanna and Federica Sarro and Justyna Petke},
+  title        = {HotBugs.jar: A Diverse Dataset of Time-Critical Bugs for Java Hot Fixing},
+  howpublished = {\url{https://github.com/carolhanna01/HotBugs-dot-jar}},
+  year         = {2025},
+  note         = {Accessed: <date of access>}
+}
+```
+
 ## How To Install
 
 For the first time, you should clone this repository as well as its submodules:
