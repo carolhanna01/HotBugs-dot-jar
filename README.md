@@ -10,12 +10,14 @@ For more information and resources, visit the [HotBugs.jar project page](https:/
 
 To cite HotBugs.jar in your research, please use the following:
 ```
-@misc{hotbugs,
-  author       = {Carol Hanna and Federica Sarro and Justyna Petke},
-  title        = {HotBugs.jar: A Diverse Dataset of Time-Critical Bugs for Java Hot Fixing},
-  howpublished = {\url{https://github.com/carolhanna01/HotBugs-dot-jar}},
-  year         = {2025},
-  note         = {Accessed: <date of access>}
+@misc{hanna2025hotbugsjarbenchmarkhotfixes,
+      title={HotBugs.jar: A Benchmark of Hot Fixes for Time-Critical Bugs}, 
+      author={Carol Hanna and Federica Sarro and Mark Harman and Justyna Petke},
+      year={2025},
+      eprint={2510.07529},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2510.07529}, 
 }
 ```
 
