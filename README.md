@@ -20,6 +20,7 @@ To cite HotBugs.jar in your research, please use the following:
       url={https://arxiv.org/abs/2510.07529}, 
 }
 ```
+For more details on how the benchmark was constructed and its included metadata, check out our [ArXiv](https://arxiv.org/abs/2510.07529) data paper.
 
 ## How To Install
 
