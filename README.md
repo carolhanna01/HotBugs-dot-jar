@@ -22,6 +22,16 @@ To cite HotBugs.jar in your research, please use the following:
 ```
 For more details on how the benchmark was constructed and its included metadata, check out our [ArXiv](https://arxiv.org/abs/2510.07529) data paper.
 
+## 📦 Hot Fix Coverage
+
+The **HotBugs.jar** benchmark consists of **679 manually validated real-world hot fixes** collected from 10 Apache projects.
+
+- ✅ **110 hot fixes are fully integrated in this repository**  
+  These cases are **reproducible with test suites** and include buggy and fixed versions for direct experimentation.
+
+- 🔗 **All 679 validated hot fixes are available [HERE](https://docs.google.com/spreadsheets/d/1DftX4Bm0wIn4wvv11edEUVYrNO5WpDy3DTkiIyZxaZs/edit?gid=579710219#gid=579710219).** 
+  This full set includes **additional manually curated metadata** (e.g., bug categorization, reason for inclusion, etc) to support extended analysis.
+
 ## How To Install
 
 For the first time, you should clone this repository as well as its submodules:
