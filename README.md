@@ -1,5 +1,7 @@
 # HotBugs.jar: A Diverse Dataset of Time-Critcal Bugs for Java Hot Fixing
 
+The repository is provided for double-blind review. All identifying information has been removed and links have been disabled for anonymity. All external links will be made public upon acceptance.
+
 <p align="center">
   <img src="logo.png" alt="HotBugs.jar Logo" width="300"/>
 </p>
