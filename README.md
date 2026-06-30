@@ -8,20 +8,6 @@ HotBugs.jar is built as an extension of the widely used [Bugs.jar](https://githu
 
 For more information and resources, visit the [HotBugs.jar project page](https://solar.cs.ucl.ac.uk/os/hotfixbenchmark.html).
 
-To cite HotBugs.jar in your research, please use the following:
-```
-@misc{hanna2025hotbugsjarbenchmarkhotfixes,
-      title={HotBugs.jar: A Benchmark of Hot Fixes for Time-Critical Bugs}, 
-      author={Carol Hanna and Federica Sarro and Mark Harman and Justyna Petke},
-      year={2025},
-      eprint={2510.07529},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2510.07529}, 
-}
-```
-For more details on how the benchmark was constructed and its included metadata, check out our [ArXiv](https://arxiv.org/abs/2510.07529) data paper.
-
 ## 📦 Hot Fix Coverage
 
 The **HotBugs.jar** benchmark consists of **679 manually validated real-world hot fixes** collected from 10 Apache projects.
